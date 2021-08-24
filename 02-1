@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main()
+{
+	int a = 8 / 4;
+	printf("%d", a);
+	system("pause");
+	return 0;
+} 
